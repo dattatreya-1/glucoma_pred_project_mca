@@ -4,7 +4,7 @@ This is a simple and interactive **Streamlit web app** that predicts the likelih
 
 ## 🚀 Live App
 
-👉 [Click here to access the app](https://your-streamlit-app-url)  
+👉 [Click here to access the app](https://glucomapredprojectmca-jmszyprjevwwd8balptmzd.streamlit.app/)
 *(Replace the above URL with your actual Streamlit Cloud URL once deployed)*
 
 ---
