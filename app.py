@@ -12,7 +12,7 @@ st.set_page_config(
 # --- Header ---
 st.markdown("""
     <h1 style='text-align: center; color: darkblue;'>🧠 Glaucoma Prediction App</h1>
-    <p style='text-align: center; font-size: 18px;'>Predict the stage of glaucoma based on patient EHR data (Left Eye - OS).</p>
+    <p style='text-align: center; font-size: 18px;'>Predict the stage of glaucoma based on patient EHR data.</p>
 """, unsafe_allow_html=True)
 
 st.markdown("---")
